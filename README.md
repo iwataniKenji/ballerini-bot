@@ -14,7 +14,7 @@
 <H2 id="about">📙 About</H2>
 
 <p>Simple landing page design with smooth hover transitions on buttons. Layout used to practice html and css concepts</p>
-<p>Originally created by <a href="https://github.com/rafaballerini">Rafaella Balerini</a> and made by Kenji Iwatani</p>
+<p>Originally created by <a href="https://github.com/rafaballerini">Rafaella Balerini</a> and made by <a href="https://www.linkedin.com/in/kleverson-kenji-iwatani/">Kenji Iwatani</a></p>
 
 <section align="center">
     <img alt="Ballerini Bot landing page overview" src="ballerini-bot-preview.png"/>
